@@ -10,6 +10,8 @@ home-manager switch --flake .
 
 # Aliases
 
-rebuild-nix - nixos-rebuild switch --use-remote-sudo --flake ~/nix
-rebuild-home - home-manager switch --flake ~/nix
+| Alias | Command |
+| --- | --- |
+| rebuild-nix | nixos-rebuild switch --use-remote-sudo --flake ~/nix |
+| rebuild-home | home-manager switch --flake ~/nix |
 
